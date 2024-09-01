@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PanLuochuan
-- 👀 I’m interested in Data Science, Machine Learing, Data Management, Data Mining, Data Analysis,etc.
+- 👀 I am currently pursuing a Master’s degree in Data Science and Analytics at UKM.Expert in data cleaning, data mining, structured and unstructured data analysis, data visualization, data management, machine learning, and familiar with common Linux commands.
 - 📫 Email : panluochuan@gmail.com
 
 <!---
